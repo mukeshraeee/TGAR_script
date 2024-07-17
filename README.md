@@ -1,1 +1,1 @@
-###This repo contains the all scripts that used for ACP paper wich is to be submittted soon. The scripts are personal use only :). I will be updating very soon. 
+### This repo contains the all scripts that were used for the ACP paper which is to be submitted soon. The scripts are for personal use only :). I will be updating very soon. 
